@@ -1,31 +1,31 @@
 # 프로젝트A Spacemacs 프로젝트
 ## 폴더 
-  drwxr-xr-x  6 june june   4096 Feb 19 14:07   +chat
-  drwxr-xr-x  4 june june   4096 Feb 19 14:07   +checkers
-  drwxr-xr-x  7 june june   4096 Feb 19 14:07   +completion
-  drwxr-xr-x  5 june june   4096 Feb 19 14:07   +distributions
-  drwxr-xr-x 11 june june   4096 Feb 19 14:07   +emacs
-  drwxr-xr-x  5 june june   4096 Feb 19 14:07   +email
-  drwxr-xr-x  4 june june   4096 Feb 19 14:07   +filetree
-  drwxr-xr-x  3 june june   4096 Feb 19 14:07   +fonts
-  drwxr-xr-x  9 june june   4096 Feb 19 14:07   +frameworks
-  drwxr-xr-x  6 june june   4096 Feb 19 14:07   +fun
-  drwxr-xr-x  5 june june   4096 Feb 19 14:07   +intl
-  drwxr-xr-x 83 june june   4096 Feb 19 14:07   +lang
-  drwxr-xr-x  8 june june   4096 Feb 19 14:07   +misc
-  drwxr-xr-x  5 june june   4096 Feb 19 14:07   +music
-  drwxr-xr-x  4 june june   4096 Feb 19 14:07   +os
-  drwxr-xr-x  3 june june   4096 Feb 19 14:07   +pair-programming
-  drwxr-xr-x  9 june june   4096 Feb 19 14:07   +readers
-  drwxr-xr-x  5 june june   4096 Feb 19 14:07   +source-control
-  drwxr-xr-x 16 june june   4096 Feb 19 14:07   +spacemacs
-  drwxr-xr-x  4 june june   4096 Feb 19 14:07   +tags
-  drwxr-xr-x  5 june june   4096 Feb 19 14:07   +themes
-  drwxr-xr-x 52 june june   4096 Feb 19 14:07   +tools
-  drwxr-xr-x  7 june june   4096 Feb 19 14:07   +vim
-  drwxr-xr-x  3 june june   4096 Feb 19 14:07   +web
-  drwxr-xr-x 13 june june   4096 Feb 19 14:07   +web-services
-  drwxr-xr-x  3 june june   4096 Feb 19 14:07   +window-management
+- drwxr-xr-x  6 june june   4096 Feb 19 14:07   +chat
+- drwxr-xr-x  4 june june   4096 Feb 19 14:07   +checkers
+- drwxr-xr-x  7 june june   4096 Feb 19 14:07   +completion
+- drwxr-xr-x  5 june june   4096 Feb 19 14:07   +distributions
+- drwxr-xr-x 11 june june   4096 Feb 19 14:07   +emacs
+- drwxr-xr-x  5 june june   4096 Feb 19 14:07   +email
+- drwxr-xr-x  4 june june   4096 Feb 19 14:07   +filetree
+- drwxr-xr-x  3 june june   4096 Feb 19 14:07   +fonts
+- drwxr-xr-x  9 june june   4096 Feb 19 14:07   +frameworks
+- drwxr-xr-x  6 june june   4096 Feb 19 14:07   +fun
+- drwxr-xr-x  5 june june   4096 Feb 19 14:07   +intl
+- drwxr-xr-x 83 june june   4096 Feb 19 14:07   +lang
+- drwxr-xr-x  8 june june   4096 Feb 19 14:07   +misc
+- drwxr-xr-x  5 june june   4096 Feb 19 14:07   +music
+- drwxr-xr-x  4 june june   4096 Feb 19 14:07   +os
+- drwxr-xr-x  3 june june   4096 Feb 19 14:07   +pair-programming
+- drwxr-xr-x  9 june june   4096 Feb 19 14:07   +readers
+- drwxr-xr-x  5 june june   4096 Feb 19 14:07   +source-control
+- drwxr-xr-x 16 june june   4096 Feb 19 14:07   +spacemacs
+- drwxr-xr-x  4 june june   4096 Feb 19 14:07   +tags
+- drwxr-xr-x  5 june june   4096 Feb 19 14:07   +themes
+- drwxr-xr-x 52 june june   4096 Feb 19 14:07   +tools
+- drwxr-xr-x  7 june june   4096 Feb 19 14:07   +vim
+- drwxr-xr-x  3 june june   4096 Feb 19 14:07   +web
+- drwxr-xr-x 13 june june   4096 Feb 19 14:07   +web-services
+- drwxr-xr-x  3 june june   4096 Feb 19 14:07   +window-management
 
 # 프로젝트B 지식관리
 ## 폴더
