@@ -1,0 +1,278 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("51) people"
+ (filename . "~/notes/")
+ (front-context-string . "Adam Smith\n  drw")
+ (rear-context-string . " Feb 25 06:22   ")
+ (position . 404))
+("50) Albert Einstein"
+ (filename . "~/notes/Albert Einstein/AlbertEinstein.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("49) Einstein"
+ (filename . "~/notes/Richard Feynman/RichardFeynman.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("48) Bertrand Russell"
+ (filename . "~/notes/Bertrand Russell/BertrandRussell.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("47) Claude Shannon"
+ (filename . "~/notes/Claude Shannon/ClaudeShannon.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("46) Mike Girvin"
+ (filename . "~/notes/Mike Girvin/MikeGirvin.org")
+ (front-context-string . "[[~/notes/downlo")
+ (rear-context-string)
+ (position . 1))
+("45) Ray Kurzeil"
+ (filename . "~/notes/Ray Kurzweil/RayKurzweil.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("44) Downloads"
+ (filename . "~/notes/downloads/")
+ (front-context-string . "The Singularity ")
+ (rear-context-string . " Feb 26 01:29   ")
+ (position . 348))
+("figure 2.1 VisiCalc, the first spreadsheet tool, was invented by Dan Bricklin(left) and Bob Frankston"
+ (filename . "~/notes/Mike Girvin/Microsoft 365 Excel The Only Ap - Mike Girvin.pdf")
+ (position . 1)
+ (page . 36)
+ (slice)
+ (size . fit-width)
+ (origin 0.0 . 0.0)
+ (handler . pdf-view-bookmark-jump-handler))
+("43) John Warmock"
+ (filename . "~/notes/John Warmock/JohnWarmock.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("42) Linus Torvald"
+ (filename . "~/notes/Linus Torvalds/LinusTorvalds.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("41) Github Repository"
+ (filename . "~/notes/Github Repository/")
+ (front-context-string)
+ (rear-context-string . "25 04:33   .git\n")
+ (position . 237))
+("40) Tom Preston Werner"
+ (filename . "~/notes/Tom Preston-Werner/TomPrestonWerner.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("39) Michael Linenberger"
+ (filename . "~/notes/Micahel linenberger/MichaelLinenberger.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("39) Donald Knuth"
+ (filename . "~/notes/Donald Knuth/DonaldKnuth.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("38) David Allen"
+ (filename . "~/notes/David Allen/DavidAllen.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("37) David Malan"
+ (filename . "~/notes/David J. Malan/DavidJ.Malan.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("36) Satya Nadella"
+ (filename . "~/notes/Satya Nadella/SatyaNadella.org")
+ (front-context-string . "* from no on you")
+ (rear-context-string)
+ (position . 1))
+("35) David Hume"
+ (filename . "~/notes/David Hume/DavidHume.org")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("34) Gilbert Strang"
+ (filename . "~/notes/Gilbert Strang/GilbertStrang.org")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("33) Mark Girvin"
+ (filename . "~/notes/Mark Girvin/MarkGirvin.org")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("32) Hippaarchus"
+ (filename . "~/notes/Hippaarchus/Hippaarchus.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("31) Gottfried Leibnitz"
+ (filename . "~/notes/Gottfried Leibniz/GottfriedLeibnitz.org")
+ (front-context-string . "z\nGreetings! I a")
+ (rear-context-string . "ottfried Leibnit")
+ (position . 67))
+("30) Ana Bell"
+ (filename . "~/notes/Ana Bell/AnaBell.org")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("29) Carsten Dominik"
+ (filename . "~/notes/Carsten Dominik/CarstenDominik.org")
+ (front-context-string)
+ (rear-context-string . "e Carsten Domini")
+ (position . 64))
+("28) Nikola Tesla Engineer"
+ (filename . "~/dialog/Nikola Tesla")
+ (front-context-string . "* from now on yo")
+ (rear-context-string)
+ (position . 1))
+("27) James Hutton Geology"
+ (filename . "~/dialog/James Hutton/JamesHutton.org")
+ (front-context-string . "#+TITLE: James H")
+ (rear-context-string)
+ (position . 1))
+("26) Guido Von Rossum"
+ (filename . "~/dialog/Guido van Rossum/")
+ (front-context-string . "#TITLE: Guido Vo")
+ (rear-context-string)
+ (position . 1))
+("25) Jeffrey Friedl"
+ (filename . "~/dialog/Jeffrey Friedl/JeffreyFriedl.org")
+ (front-context-string . "from now on you ")
+ (rear-context-string)
+ (position . 3))
+("24) Ludwig Wittgenstein"
+ (filename . "~/dialog/Ludwig Wittgenstein/LudwigWittgenstein.org")
+ (front-context-string . "n\nAs Ludwig Witt")
+ (rear-context-string . "dwig Wittgenstei")
+ (position . 68))
+("23) AllanTuring.org"
+ (filename . "~/dialog/Allan Turing/")
+ (front-context-string)
+ (rear-context-string . "b 23 20:54   ..\n")
+ (position . 183))
+("22) Satya Nadella"
+ (filename . "~/dialog/Satya Nadella/")
+ (front-context-string . "* from no on you")
+ (rear-context-string)
+ (position . 1))
+("21) Richard Stallman"
+ (filename . "~/notes/Richard Stallman/RichardStallman.org")
+ (front-context-string . "#TITLE: Richard ")
+ (rear-context-string)
+ (position . 1))
+("20) Janes Goodall"
+ (filename . "~/dialog/Jane Goodall/JaneGoodall.org")
+ (front-context-string . "\n* act as if you")
+ (rear-context-string . ": Janes Goodall\n")
+ (position . 23))
+("19)plantuml layer"
+ (filename . "~/.emacs.d/layers/+lang/plantuml/README.org")
+ (front-context-string . "Install\nTo use t")
+ (rear-context-string . "y from emacs\n\n* ")
+ (position . 1755))
+("org-capture-last-stored"
+ (filename . "~/notes/link/20230224023539-not.org")
+ (front-context-string)
+ (rear-context-string . "D:\n#+title: not\n")
+ (position . 81))
+("18) notes"
+ (filename . "~/.spacemacs.d/notes/")
+ (front-context-string . "05.org\n  drwxr-x")
+ (rear-context-string . " Feb 21 06:20   ")
+ (position . 558))
+("17) june"
+ (filename . "~/")
+ (front-context-string . ".spacemacs.d\n  -")
+ (rear-context-string . " Feb 19 16:26   ")
+ (position . 597))
+("16) downloa"
+ (filename . "/mnt/c/Users/JH_Ju/Downloads/")
+ (front-context-string . "~$crosoft 365 Ex")
+ (rear-context-string . " Feb  6 06:52   ")
+ (position . 237))
+("15) documents"
+ (filename . "/mnt/c/Users/JH_Ju/Documents/")
+ (front-context-string . ".git\n  drwxrwxrw")
+ (rear-context-string . " Feb 17 10:39   ")
+ (position . 230))
+("14) jh_june"
+ (filename . "/mnt/c/Users/JH_Ju/")
+ (front-context-string . "Documents\n  drwx")
+ (rear-context-string . " Feb 20 02:03   ")
+ (position . 1176))
+("13) c"
+ (filename . "/mnt/c/")
+ (front-context-string . "Program Files\n  ")
+ (rear-context-string . "96 Feb 20 01:37 ")
+ (position . 918))
+("12) root"
+ (filename . "/")
+ (front-context-string . "mnt\n  drwxr-xr-x")
+ (rear-context-string . " Jan 27 20:45   ")
+ (position . 804))
+("11) etc"
+ (filename . "/etc/")
+ (front-context-string . "locale.gen\n  lrw")
+ (rear-context-string . " Jan 27 21:34   ")
+ (position . 3048))
+("10) snippets"
+ (filename . "~/.spacemacs.d/snippets/org-mode/")
+ (front-context-string . "6*\n  -rw-r--r-- ")
+ (rear-context-string . " Feb 19 19:38   ")
+ (position . 283))
+("9) mainnotes"
+ (filename . "~/.spacemacs.d/notes/mainnotes.org")
+ (front-context-string . " task\n* manage\n*")
+ (rear-context-string)
+ (position . 2))
+("8) learn python 3 the hard way"
+ (filename . "~/.spacemacs.d/notes/mainnotes.org")
+ (front-context-string . "keep track of al")
+ (rear-context-string . "\n**** how can I ")
+ (position . 94))
+("7) helm bookmarks"
+ (filename . "~/.emacs.d/.cache/bookmarks")
+ (front-context-string . "((\"4) spacemacs ")
+ (rear-context-string . "rsion Stamp -*-\n")
+ (position . 251))
+("4) spacemacs dotfile user-config"
+ (filename . "~/.spacemacs")
+ (front-context-string . "(defun dotspacem")
+ (rear-context-string . " the\ndump.\"\n)\n\n\n")
+ (position . 29057))
+("5) spacemacs dotfile configuration-layer"
+ (filename . "~/.spacemacs")
+ (front-context-string . "   dotspacemacs-")
+ (rear-context-string . "layers to load.\n")
+ (position . 1311))
+("3) ~"
+ (filename . "~/")
+ (front-context-string . ".spacemacs.d\n  -")
+ (rear-context-string . " Feb 19 16:26   ")
+ (position . 776))
+("2) external"
+ (filename . "~/.spacemacs.d/notes/external/")
+ (front-context-string . "..\n  -rw-r--r-- ")
+ (rear-context-string . " Feb 19 16:48   ")
+ (position . 198))
+("1) converts"
+ (filename . "~/.spacemacs.d/notes/converts/")
+ (front-context-string . "Learn Python 3 T")
+ (rear-context-string . " Feb 19 16:19   ")
+ (position . 472))
+("6) spacemacs dotfile bookmarks org-capture-last-stored"
+ (filename . "~/.spacemacs.d/notes/20230219163229-.org")
+ (front-context-string)
+ (rear-context-string . "END:\n#+title: -\n")
+ (position . 79))
+)
