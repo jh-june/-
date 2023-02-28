@@ -1,7 +1,3 @@
----
-author: black-box
-title: 이력서
----
 
 # 이력서
 
